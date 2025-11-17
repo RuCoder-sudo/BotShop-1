@@ -5,6 +5,16 @@
 SHOP-Q предоставляет полнофункциональную платформу для продавцов и покупателей с многоуровневой системой ролей, географической иерархией и встроенными инструментами управления.
 
 ---
+## 💻 Скриншоты бота
+### Главное меню
+![Главное меню](https://raw.githubusercontent.com/RuCoder-sudo/BotShop-1/main/screenshots/Screenshot_1.png)
+
+### Каталог товаров
+![Каталог товаров](https://raw.githubusercontent.com/RuCoder-sudo/BotShop-1/main/screenshots/Screenshot_2.png)
+
+### Админ панель
+![Админ панель](https://raw.githubusercontent.com/RuCoder-sudo/BotShop-1/main/screenshots/Screenshot_3.png)
+
 
 ## 📋 Содержание
 
